@@ -1,0 +1,13 @@
+streamlit
+boto3
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+xgboost
+requests
+configparser
+joblib
+watchdog
